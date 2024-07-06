@@ -1,0 +1,20 @@
+/* this is a style sheet */
+
+.odd {
+    background-color: hsl(0, 100%, 80%);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.big-font {
+    font-size: 24px;
+}
+
+#num-two {
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+
+#num-four {
+    background-color: hsl(114, 100%, 80%);
+    font-weight: 700;
+}
